@@ -6,6 +6,6 @@ xG_model.R contains the regression I used to get each shot an expected goal valu
 All_Zone_Entries+Shots.R contains the code used to get all zone entries and shots taken within ten seconds of the entry.
 Zone_Entries_by_Condition.R contains the code used to get the expected goals per zone entry of different entry conditions.
 
-Finally, I have also attached a pdf copy of a report I wrote that summarizes my findings.
+Finally, I have also attached a pdf copy of the report I wrote that summarizes my findings.
 
 # Thank you for checking out my project!
