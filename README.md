@@ -1,5 +1,5 @@
 # BDC 2022
-My submission for the 2022 Big Data Cup using data provided by Stathletes. This project focused on quantifying and comparing the scoring chances created from different zone entry conditions.
+This is my submission for the 2022 Big Data Cup using data provided by Stathletes. This project focused on quantifying and comparing the scoring chances created from different zone entry conditions.
 
 This repo contains three separate R scripts:
 xG_model.R contains the regression I used to get each shot an expected goal value.
